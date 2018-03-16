@@ -1,0 +1,12 @@
+Analysis of leveraged index ETFs.
+
+Questions:
+Is it reasonable to hold leveraged ETFs for long periods of time?
+What is the annual return for ETFs with different multiples?
+Are some indices better to leverage than others?
+How well do leveraged ETFs track the indices?
+Data: SP500 daily close price from 2013 to 2018
+
+1. demonstrate long-term price movement of simulated price data and compare performance with multiples
+
+2. 
